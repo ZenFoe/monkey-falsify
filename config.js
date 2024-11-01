@@ -1,6 +1,6 @@
 window.config = {
-  entryPhrase: "getmein",  // phrase to enter the real site
-  proxyLink: "https://nano-proxy.github.io/", // proxy link, highly recommended you change it
+  entryPhrase: "rigged",  // phrase to enter the real site
+  proxyLink: "https://aluu.xyz/en/", // proxy link, highly recommended you change it
   blanker: "byebye", // opens your proxy link in about blank
   leverofdoom: "no",
   alternativeproxy: "https://youtube.com", // alternative Proxy
